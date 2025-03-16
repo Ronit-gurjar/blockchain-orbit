@@ -5,7 +5,7 @@ import Socials from "@/components/socialsDock";
 import TickerTape from "@/components/tickerTape";
 import { Construction, Sparkle } from "lucide-react";
 import { useEffect, useState } from "react";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { Pixelify_Sans } from "next/font/google"
 
 const pixelifySans = Pixelify_Sans({
