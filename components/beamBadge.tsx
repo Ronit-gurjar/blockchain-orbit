@@ -1,4 +1,3 @@
-import { Badge } from "@/components/ui/badge"
 import { Gem } from "lucide-react";
 import { BorderBeam } from "./magicui/border-beam";
 
